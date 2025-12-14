@@ -11,7 +11,7 @@
 | `refactor`    | Code refactoring without feature change   |
 | `pref`    | Performance improvement   |
 | `test`    | Adding/modifying tests   |
-| `chore`    | Build tasks, config updates, dependency updates   |
+| `config`    | Build tasks, config updates, dependency updates   |
 | `ci`    | CICD pipeline changes   |
 
 
