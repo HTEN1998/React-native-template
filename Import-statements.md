@@ -21,11 +21,3 @@
 - font sizes and font familes
 11. Adapters
 12. Components
-
-// 11. Internal - Components (last)
-import AppHeader from '../../components/layouts/AppHeader';
-import CustomDateInput from '../../components/widgets/CustomDateInput';
-import CustomDropdown from '../../components/widgets/CustomDropdown';
-import CustomGradientButton from '../../components/widgets/CustomGradientButton';
-import CustomRadioGroup from '../../components/widgets/CustomRadioGroup';
-import CustomTextInput from '../../components/widgets/CustomTextInput';
